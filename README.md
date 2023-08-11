@@ -9,5 +9,6 @@ This application will help you maintain record of your blood pressure and show s
 Hope you like it!
 
 Contact regarding any issues:-
+
 Mail: aaftabkhan2005@gmail.com
 Discord: Tyrant_aak24
